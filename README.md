@@ -1,6 +1,6 @@
 It's a simple PHP crud project.
 Few months ago i made this project. 
-It's a simple Student Management System Project.
+It's a Student Management System Project.
 Here, i try to implement admin & editor panel. 
 Also i apply INPUT SANITIZATION.
 I try to do efficient code in this project.
